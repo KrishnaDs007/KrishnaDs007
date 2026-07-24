@@ -13,7 +13,7 @@ I specialise in **React, Next.js, TypeScript, Micro Frontends, design systems, r
 - Scalable frontend architecture and Micro Frontends
 - React and Next.js application development
 - Design systems and reusable component libraries
-- Frontend performance and accessibility
+- Frontend performance, accessibility, and responsive UI
 - Real-time dashboards and event-driven interfaces
 - AI/LLM interfaces, RAG workflows, and analytics
 - Frontend-heavy full-stack applications
@@ -30,23 +30,16 @@ I specialise in **React, Next.js, TypeScript, Micro Frontends, design systems, r
 
 ## Featured Projects
 
-### [PayMatch](https://github.com/KrishnaDs007/paymatch)
-
-Revenue reconciliation platform with CSV imports, deterministic matching, discrepancy dashboards, PostgreSQL, Prisma, authentication, and AI-assisted explanations.
-
-**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, OpenAI  
-[Live Demo](https://paymatch.vercel.app/)
-
 ### [Krishna Devashish Portfolio](https://github.com/KrishnaDs007/krishnas_portfolio)
 
-Personal engineering portfolio showcasing my projects, frontend architecture experience, and AI product work.
+Personal engineering portfolio showcasing my experience, projects, frontend architecture work, and AI-focused product development.
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui  
 [Live Website](https://www.krishnadevashish.com/)
 
 ### [Expenzo](https://github.com/KrishnaDs007/expenzo)
 
-Expense-management application with intelligent transaction entry, analytics, bill splitting, and responsive dashboards.
+Expense-management application with transaction tracking, analytics, bill splitting, responsive dashboards, and AI-assisted workflows.
 
 **Stack:** Next.js, TypeScript, charts, APIs, AI integration
 
@@ -55,6 +48,14 @@ Expense-management application with intelligent transaction entry, analytics, bi
 Interactive application for visualising data structures and algorithm execution step by step.
 
 **Stack:** React, TypeScript
+
+### [Radeion](https://github.com/KrishnaDs007/radeion)
+
+A TypeScript-based application ecosystem consisting of a frontend, backend service, and browser extension.
+
+**Stack:** React, TypeScript, Node.js, REST APIs, browser extensions
+
+[Backend](https://github.com/KrishnaDs007/radeion-backend) · [Browser Extension](https://github.com/KrishnaDs007/radeion-extension)
 
 ## Current Focus
 
@@ -65,7 +66,7 @@ Interactive application for visualising data structures and algorithm execution 
 
 ## GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaDs007&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaDs007&theme=github-dark&hide_border=true)](https://streak-stats.demolab.com?user=KrishnaDs007)
 
 ## Let's Connect
 
@@ -73,4 +74,4 @@ Interactive application for visualising data structures and algorithm execution 
 - [LinkedIn](https://www.linkedin.com/in/mrkd007/)
 - [Email](mailto:contact@krishnadevashish.com)
 
-> Building scalable interfaces, practical architecture, and AI-powered product experiences.
+> Building scalable interfaces, practical frontend architecture, and AI-powered product experiences.
